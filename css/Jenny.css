@@ -1,6 +1,6 @@
 /* This is my first time using css so i'm bascially just playing arround. I hear it's the fastest way to*/
-body {
-    background-color: silver;
+body{
+    background-color: rgb(192, 192, 192);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1rem;
 }
@@ -21,4 +21,7 @@ image{
 font-weight: 100;
 font-style: italic;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.removelinkline{
+text-decoration: none;
 }
